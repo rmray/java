@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="C10_MjFurniture:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/C10_MjFurniture_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="C10_MjFurniture" />
+        </element>
+      </element>
+      <element id="library" level="module" name="commons-dbutils-1.3" module-name="C10_MjFurniture" />
+      <element id="javaee-facet-resources" facet="C10_MjFurniture/web/Web" />
+    </root>
+  </artifact>
+</component>
